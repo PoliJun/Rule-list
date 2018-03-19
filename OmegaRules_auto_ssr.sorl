@@ -20,7 +20,6 @@
 127.0.0.1
 *.alicdn.com
 *.alibaba.com
-!*.zmzjstu.com
 *.maoyun.tv
 *.ctsywy.com
 *.xianliao.me
