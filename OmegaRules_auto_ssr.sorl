@@ -174,7 +174,7 @@
 *.bing.com
 *.hjenglish.com
 *.eudic.net
-*.passwordsgenerator.net
+!*.passwordsgenerator.net
 *.hxgs.net
 *.mop.com
 *.wallstreetcn.com
