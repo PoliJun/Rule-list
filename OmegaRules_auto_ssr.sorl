@@ -108,7 +108,7 @@
 *.douyu.com
 *.taobao.com
 *.alipay.com
-*.opennic.org
+!*.opennic.org
 *.youku.com
 *.gtags.net
 *.douyutv.com
