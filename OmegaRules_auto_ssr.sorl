@@ -198,3 +198,19 @@
 *.doubanio.com
 *.liaoxuefeng.com
 *.lolesports.com
+*.csdn.net +direct
+*.xitongcheng.com +direct
+*.deepinghost.com +direct
+*.456xt.com +direct
+*.taptap.com +direct
+*.xd.com +direct
+*.osdn.net +direct
+*.miui.com +direct
+*.xiaomi.com +direct
+*.weiyun.com +direct
+*.fugetech.com +direct
+*.microsoft.com +direct
+*.bing.net +direct
+*.lolesports.com +direct
+cn.nytimes.com +lantern
+
