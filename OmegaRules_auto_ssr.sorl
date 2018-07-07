@@ -170,7 +170,7 @@
 *.oschina.net
 *.taobao.net
 *.xiami.com
-*.bible.com
+!*.bible.com
 *.bing.com
 *.hjenglish.com
 *.eudic.net
